@@ -5358,10 +5358,10 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"sounds/music.mp3", id:"music"},
-		{src:"sounds/ham.mp3", id:"ham"},
-		{src:"sounds/cracking.mp3", id:"cracking"},
-		{src:"sounds/whoosh.mp3", id:"whoosh"}
+		{src:"sounds/music.mp3?1747153401141", id:"music"},
+		{src:"sounds/ham.mp3?1747153401141", id:"ham"},
+		{src:"sounds/cracking.mp3?1747153401141", id:"cracking"},
+		{src:"sounds/whoosh.mp3?1747153401141", id:"whoosh"}
 	],
 	preloads: []
 };
